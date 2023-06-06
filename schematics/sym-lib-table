@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "shmoergh-psu-components")(type "KiCad")(uri "/Users/peterzimon/Shmoergh/eurorack-psu/components/shmoergh-psu-components.kicad_sym")(options "")(descr ""))
+)
